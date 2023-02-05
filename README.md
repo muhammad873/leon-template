@@ -1,4 +1,4 @@
-# template-1
+# template_1
 first project
 
 
